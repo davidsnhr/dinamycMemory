@@ -1,0 +1,3 @@
+/Users/davidsanchez/CLionProjects/dynamicMemory/cmake-build-debug/CMakeFiles/dynamicMemory.dir
+/Users/davidsanchez/CLionProjects/dynamicMemory/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidsanchez/CLionProjects/dynamicMemory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
